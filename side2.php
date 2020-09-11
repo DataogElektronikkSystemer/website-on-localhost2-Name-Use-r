@@ -15,20 +15,20 @@
           </nav>
 
       <div class="side">
-          <p>Infrastruktur</p>  
+          <p>Infrastruktur</p>
 
-          
+
           <div id="mySidebar" class="sidebar">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
   <a href="side2.php">Infrastrutur</a>
   <a href="side3.php">Norsk</a>
-  <a href="side4.php">Eengelsk</a>
+  <a href="side4.php">Engelsk</a>
   <a href="#">Samfunnsfag</a>
 </div>
 
 <div id="main">
-  <button class="openbtn" onclick="openNav()">☰ fagmeny</button>  
-  
+  <button class="openbtn" onclick="openNav()">☰ fagmeny</button>
+
 </div>
 
 <script>
@@ -47,6 +47,6 @@ function closeNav() {
 
 
           </div>
-                     
+
     </body>
    </html>
